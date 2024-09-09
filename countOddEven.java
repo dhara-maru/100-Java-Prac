@@ -1,4 +1,4 @@
-//7. find total odd and total even digits of given number
+//8. find total odd and total even digits of given number
 
 import java.util.*;
 
